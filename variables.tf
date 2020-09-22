@@ -8,7 +8,7 @@ variable "victim_company" {
 variable "location" {
   type        = string
   description = "Azure region where the resources will be created"
-  default     = "West US 2"
+  default     = "West Europe"
 }
 
 # victim vnet cidr
